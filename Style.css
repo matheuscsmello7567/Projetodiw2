@@ -1,0 +1,21 @@
+.container
+{
+    display: flex;
+    margin-top: 20px;
+    padding: 5px;
+    justify-content: space-between;
+  }
+  
+.card-content{
+  color: black;
+  
+}
+.letters{
+color :black
+}
+.portfolio{
+  display: flex;
+  margin-top: 20px;
+  padding: 5px;
+  justify-content: space-between;
+}
